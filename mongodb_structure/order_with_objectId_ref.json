@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "641c0b1f858c907e5c2bac42"
+  },
+  "glasses_id": {
+    "$oid": "641c1458858c907e5c2bac5e"
+  },
+  "client_id": {
+    "$oid": "641ae38ab4fca381a162a08b"
+  },
+  "tienda_id": {
+    "$oid": "641ae1bcb4fca381a162a087"
+  },
+  "empleado_id": "emple1",
+  "total_precio": 90
+},{
+  "_id": {
+    "$oid": "641c0b1f858c907e5c2bac43"
+  },
+  "glasses_id": {
+    "$oid": "641acc0bb4fca381a162a070"
+  },
+  "client_id": {
+    "$oid": "641ae38ab4fca381a162a08c"
+  },
+  "tienda_id": {
+    "$oid": "641ae1bcb4fca381a162a088"
+  },
+  "empleado_id": "emple2",
+  "total_precio": 85
+},{
+  "_id": {
+    "$oid": "641c0b1f858c907e5c2bac44"
+  },
+  "glasses_id": {
+    "$oid": "641acc0bb4fca381a162a072"
+  },
+  "client_id": {
+    "$oid": "641ae38ab4fca381a162a08d"
+  },
+  "tienda_id": {
+    "$oid": "641ae1bcb4fca381a162a089"
+  },
+  "empleado_id": "emple3",
+  "total_precio": 110
+}]

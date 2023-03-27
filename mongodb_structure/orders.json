@@ -1,0 +1,23 @@
+[
+  {
+    "glasses_id": "641970ce2fe1a836a225ad6c",
+    "client_id": "6419713f2fe1a836a225ad6f",
+    "tienda_id": "Barcelona_01",
+    "empleado_id": "emple1",
+    "total_precio": 90
+  },
+  {
+    "glasses_id": "641997702fe1a836a225adbd",
+    "client_id": "641998a12fe1a836a225adc4",
+    "tienda_id": "Barcelona_02",
+    "empleado_id": "emple2",
+    "total_precio": 85
+  },
+   {
+    "glasses_id": "641990292fe1a836a225adaf",
+    "client_id": "64199aa92fe1a836a225adc6",
+    "tienda_id": "Madrid_01",
+    "empleado_id": "emple3",
+    "total_precio": 110
+  }
+]

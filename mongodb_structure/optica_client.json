@@ -1,0 +1,13 @@
+[{
+    "client":
+    {
+        "nom":"",
+        "cod_postal":"",
+        "telefono":"",
+        "email":"",
+        "fecha_reg":"",
+        "recomendado":"true o false",
+        "cliente_rec":null
+    }
+
+}]

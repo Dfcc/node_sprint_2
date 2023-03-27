@@ -1,0 +1,29 @@
+[{
+  
+    "nom": "Juan Perez",
+    "cod_postal": "08032",
+    "telefono": "55555555",
+    "email": "perez@perez.es",
+    "fecha_reg": "22/12/2002",
+    "recomendado": false,
+    "cliente_rec": null
+  },
+{
+    "nom": "Marta Arte",
+    "cod_postal": "08022",
+    "telefono": "5245658",
+    "email": "marta@arte.es",
+    "fecha_reg":"02/12/2012",
+    "recomendado": true,
+    "cliente_rec": ""
+  },
+  {
+    "nom": "Robert Madrid",
+    "cod_postal": "564782",
+    "telefono": "999999999",
+    "email": "robert@madrid.es",
+    "fecha_reg":"02/11/2013",
+    "recomendado": false,
+    "cliente_rec": null
+  }
+]

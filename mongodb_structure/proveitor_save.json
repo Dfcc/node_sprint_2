@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "641971f42fe1a836a225ad76"
+  },
+  "proveitor": {
+    "nom": "indian_glasses",
+    "calle": "ratapiu",
+    "numero":null,
+    "piso": "3",
+    "puerta": null,
+    "ciudad": "Bangladesh",
+    "codig_postal": "F56748",
+    "pais": "India",
+    "telefono": "00874565",
+    "email": "india_glasses@indian.com",
+    "nif": "452136P"
+  }
+},{
+  "_id": {
+    "$oid": "64197cf82fe1a836a225ad98"
+  },
+  "proveitor": {
+    "nom": "gafas Tom",
+    "calle": "balmes",
+    "numero": 24,
+    "piso": 5,
+    "puerta": null,
+    "ciudad": "Barcelona",
+    "codig_postal": "08002",
+    "pais": "Spain",
+    "telefono": "666666666",
+    "email": "tom_gafas@tom.com",
+    "nif": "654887954"
+  }
+},{
+  "_id": {
+    "$oid": "64197d6c2fe1a836a225ad99"
+  },
+  "proveitor": {
+    "nom": "gafas Mad",
+    "calle": "Velazquez",
+    "numero": 24,
+    "piso": 1,
+    "puerta": null,
+    "ciudad": "Madrid",
+    "codig_postal": "3565478",
+    "pais": "Spain",
+    "telefono": "33333366",
+    "email": "mad_gafas@mad.com",
+    "nif": "65345qw32"
+  }
+},{
+  "_id": {
+    "$oid": "64197e172fe1a836a225ad9a"
+  },
+  "proveitor": {
+    "nom": "gafas London",
+    "calle": "Stone",
+    "numero": 42,
+    "piso": 3,
+    "puerta": "B",
+    "ciudad": "London",
+    "codig_postal": "3cf4458",
+    "pais": "England",
+    "telefono": "00654789",
+    "email": "london_gafas@london.com",
+    "nif": "9568765X"
+  }
+}]

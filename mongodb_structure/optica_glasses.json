@@ -1,0 +1,63 @@
+[
+        {
+        "name":"sol_up",
+        "model":"sol1",
+        "design":["flotant","pasta","mettalica"],
+        "desc":"",
+        "graduacio":[0,0],
+        "color_de_montura":["oscuro","claro","neutro"],
+        "color_de_vidrio":["oscuro","claro"],
+        "preu":"",
+        "proveitor_ref":["ref_id"]
+    },
+    {
+        "name":"sol_top",
+        "model":["sol2"],
+        "design":["flotant"],
+        "desc":"",
+        "graduacio":[0,0],
+        "color_de_montura":["oscuro","claro","neutro"],
+        "color_de_vidrio":["oscuro","claro"],
+        "preu":"90",
+        "proveitor_ref":["ref_id"]
+    },
+    {
+        "name":"sol_past",
+        "model":["sol3"],
+        "design":["pasta"],
+        "desc":"",
+        "graduacio":[0,0],
+        "color_de_montura":["neutro"],
+        "color_de_vidrio":["claro"],
+        "preu":"100",
+        "proveitor_ref":["ref_id"]
+    },
+    {
+        "name":"standard_up",
+        "model":["standard01"],
+        "design":["flotant"],
+        "desc":"",
+        "graduacio":[1,1],
+        "color_de_montura":["oscuro"],
+        "color_de_vidrio":["claro"],
+        "preu":"90",
+        "proveitor_ref":["ref_id"]
+    },
+    {
+        "name":"standard_med",
+        "model":["standard02"],
+        "design":["mettalica"],
+        "desc":"",
+        "graduacio":[0.5,0.5],
+        "color_de_montura":["claro"],
+        "color_de_vidrio":["claro"],
+        "preu":"75",
+        "proveitor_ref":["ref_id"]
+    }
+
+   ]
+
+
+
+
+

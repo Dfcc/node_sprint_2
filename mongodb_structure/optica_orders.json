@@ -1,0 +1,11 @@
+[{
+"orders":
+    {
+        "glasses_id":"objeto",
+        "client_id":"ref",
+        "tienda_id":"ref",
+        "empleado_id":"ref",
+        "total_precio":[]
+    }
+
+}]

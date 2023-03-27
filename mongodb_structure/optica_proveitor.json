@@ -1,0 +1,17 @@
+[{
+    "proveitor":
+    {
+    "nom":"",
+    "calle":"",
+    "numero":null,
+    "piso":"",
+    "puerta":null,
+    "ciudad":"",
+    "codig_postal":"",
+    "pais":"",
+    "telefono":"",
+    "email":"",
+    "nif":""
+}
+
+}]

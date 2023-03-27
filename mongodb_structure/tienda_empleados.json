@@ -1,0 +1,60 @@
+[
+  {
+      "slug": "Barcelona_01",
+      "nombre": "pelayo_optica",
+      "direccion": "pelayo 34",
+      "empleados":[
+        {
+        "nombre": "emple1",
+        "tienda_ref": [
+          "Barcelona_01",
+          "Barcelona_02"
+        ]
+      },
+      {
+        "nombre": "emple2",
+        "tienda_ref": [
+          "Barcelona_01",
+          "Barcelona_02"
+        ]
+      }
+    ]
+  },
+   {
+    
+      "slug": "Barcelona_02",
+      "nombre": "balmes_optica",
+      "direccion": "balmes 300",
+      "empleados": [
+        {
+          "nombre": "emple1",
+          "tienda_ref": [
+            "Barcelona_01",
+            "Barcelona_02"
+          ]
+        },
+        {
+          "nombre": "emple2",
+          "tienda_ref": [
+            "Barcelona_01",
+            "Barcelona_02"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "Madrid_01",
+      "nombre": "madrid_optica",
+      "direccion": "paseo castellana 65",
+      "empleados":[
+        {
+          "nombre": "emple4",
+          "tienda_ref": "Madrid_01"
+        },
+        {
+          "nombre": "emple5",
+          "tienda_ref": "Madrid_01"
+        }
+      ]
+    }
+]

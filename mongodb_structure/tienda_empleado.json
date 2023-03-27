@@ -1,0 +1,16 @@
+[{
+"tienda":[
+    {
+    "slug":"",
+    "nombre":"",
+    "direccion":"",
+    "empleados_ref":["emple1","emple2","emple3"]
+    }
+    ],
+"empleado":[
+    {
+    "nombre":"",
+    "tienda_ref":[]
+   }
+]
+}]
