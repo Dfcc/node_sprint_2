@@ -1,0 +1,10 @@
+INSERT INTO `optica`.`glasses_desc_has_provider` (`Glasses_Desc_id_Glasses`, `Provider_idProvider`) VALUES ('1', '1');
+INSERT INTO `optica`.`glasses_desc_has_provider` (`Glasses_Desc_id_Glasses`, `Provider_idProvider`) VALUES ('1', '3');
+INSERT INTO `optica`.`glasses_desc_has_provider` (`Glasses_Desc_id_Glasses`, `Provider_idProvider`) VALUES ('2', '1');
+INSERT INTO `optica`.`glasses_desc_has_provider` (`Glasses_Desc_id_Glasses`, `Provider_idProvider`) VALUES ('2', '2');
+INSERT INTO `optica`.`glasses_desc_has_provider` (`Glasses_Desc_id_Glasses`, `Provider_idProvider`) VALUES ('3', '2');
+INSERT INTO `optica`.`glasses_desc_has_provider` (`Glasses_Desc_id_Glasses`, `Provider_idProvider`) VALUES ('3', '1');
+INSERT INTO `optica`.`glasses_desc_has_provider` (`Glasses_Desc_id_Glasses`, `Provider_idProvider`) VALUES ('4', '1');
+INSERT INTO `optica`.`glasses_desc_has_provider` (`Glasses_Desc_id_Glasses`, `Provider_idProvider`) VALUES ('5', '1');
+INSERT INTO `optica`.`glasses_desc_has_provider` (`Glasses_Desc_id_Glasses`, `Provider_idProvider`) VALUES ('5', '2');
+INSERT INTO `optica`.`glasses_desc_has_provider` (`Glasses_Desc_id_Glasses`, `Provider_idProvider`) VALUES ('5', '3');

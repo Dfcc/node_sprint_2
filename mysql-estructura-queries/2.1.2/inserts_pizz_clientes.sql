@@ -1,0 +1,5 @@
+INSERT INTO `pizzeria_proj`.`clientes` (`id_clientes`, `nombre`, `direccion`, `numero`, `codigo_postal`, `localidad`, `telefon`, `provincia`) VALUES ('01', 'Juan', 'born', '21 ', '08002', 'Barcelona', '55555555', 'Catalunya');
+INSERT INTO `pizzeria_proj`.`clientes` (`id_clientes`, `nombre`, `direccion`, `numero`, `codigo_postal`, `localidad`, `telefon`, `provincia`) VALUES ('02', 'Pedro', 'vico', '25', '08004', 'Barcelona', '66666666', 'Catalunya');
+INSERT INTO `pizzeria_proj`.`clientes` (`id_clientes`, `nombre`, `direccion`, `numero`, `codigo_postal`, `localidad`, `telefon`, `provincia`) VALUES ('03', 'Maria', 'grande', '27', '035645', 'Granollers', '7777777', 'Catalunya');
+INSERT INTO `pizzeria_proj`.`clientes` (`id_clientes`, `nombre`, `direccion`, `numero`, `codigo_postal`, `localidad`, `telefon`, `provincia`) VALUES ('04', 'Rosa', 'nido', '32', '035645', 'Granollers', '54789235', 'Catalunya');
+INSERT INTO `pizzeria_proj`.`clientes` (`id_clientes`, `nombre`, `direccion`, `numero`, `codigo_postal`, `localidad`, `telefon`, `provincia`) VALUES ('05', 'Roberta', 'Paseo castellano ', '55', '065478', 'Madrid', '98456987', 'Madrid');

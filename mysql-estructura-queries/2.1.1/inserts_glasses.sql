@@ -1,0 +1,5 @@
+INSERT INTO `optica`.`glasses_desc` (`id_Glasses`, `model`, `marca`, `graduacio_ambes`, `tipus de montura`, `color_mont`, `color_vidre`, `preu`) VALUES ('01', 'Retro', 'Vogue', 'null', 'Pasta', 'Claro', 'Oscuro', '125');
+INSERT INTO `optica`.`glasses_desc` (`id_Glasses`, `model`, `marca`, `graduacio_ambes`, `tipus de montura`, `color_mont`, `color_vidre`, `preu`) VALUES ('02', 'Sun', 'Ray-Ban', 'null', 'Eco', 'Violeta', 'Oscuro', '150');
+INSERT INTO `optica`.`glasses_desc` (`id_Glasses`, `model`, `marca`, `graduacio_ambes`, `tipus de montura`, `color_mont`, `color_vidre`, `preu`) VALUES ('03', 'Fashion', 'Pepes', '1I,1D', 'Ferro', 'Marron', 'Claro', '145');
+INSERT INTO `optica`.`glasses_desc` (`id_Glasses`, `model`, `marca`, `graduacio_ambes`, `tipus de montura`, `color_mont`, `color_vidre`, `preu`) VALUES ('04', 'Small', 'Gafon', '1I,1D', 'Eco', 'Claro', 'Claro', '100');
+INSERT INTO `optica`.`glasses_desc` (`id_Glasses`, `model`, `marca`, `graduacio_ambes`, `tipus de montura`, `color_mont`, `color_vidre`, `preu`) VALUES ('05', 'Round', 'Vuarnet', 'null', 'Pasta', 'Marron', 'Oscuro', '120');

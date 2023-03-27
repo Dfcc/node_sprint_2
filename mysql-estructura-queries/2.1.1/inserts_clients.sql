@@ -1,0 +1,5 @@
+INSERT INTO `optica`.`client` (`idl_cliente`, `nom`, `carrer`, `codi_postal`, `ciutat`, `email`, `data_registre`, `client_recomend`) VALUES ('01', 'Maria Mi', 'valencia', '021458', 'Barcelona', 'mar@maria.com', '2020-12-1', '0');
+INSERT INTO `optica`.`client` (`idl_cliente`, `nom`, `carrer`, `codi_postal`, `ciutat`, `email`, `data_registre`, `client_recomend`) VALUES ('02', 'Juan', 'robadors 4', '05469', 'Barcelona', 'juan@juan.net', '2021-06-12', '1');
+INSERT INTO `optica`.`client` (`idl_cliente`, `nom`, `carrer`, `codi_postal`, `ciutat`, `email`, `data_registre`, `client_recomend`) VALUES ('03', 'Robert', 'buscarons 5 ', '021365', 'Barcelona', 'rob@rob.com', '2021-02-23', '1');
+INSERT INTO `optica`.`client` (`idl_cliente`, `nom`, `carrer`, `codi_postal`, `ciutat`, `email`, `data_registre`, `client_recomend`) VALUES ('04', 'Pilar', 'vastalla 2 ', '02123', 'Madrid', 'pilar@pil.com', '2020-12-12', '0');
+INSERT INTO `optica`.`client` (`idl_cliente`, `nom`, `carrer`, `codi_postal`, `ciutat`, `email`, `data_registre`, `client_recomend`) VALUES ('05', 'Javier', 'velazquez 23 ', '012354', 'Madrid', 'javi@jav.com', '2022-05-10', '1');

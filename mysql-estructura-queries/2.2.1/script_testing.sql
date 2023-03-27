@@ -1,0 +1,5 @@
+SELECT idProvider,nom, orders.Glasses_Desc_id_Glasses, glasses_desc_has_provider.*
+FROM provider
+INNER JOIN glasses_desc_has_provider ON provider.idProvider =glasses_desc_has_provider.Provider_idProvider
+INNER JOIN orders ON glasses_desc_has_provider.Provider_idProvider=orders.Glasses_Desc_id_Glasses
+ORDER BY glasses_desc_has_provider.Provider_idProvider;
